@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/codecoding/amplifier.git"
+    "url": "git://github.com/codecoding/amplifier.git"
   },
   "keywords": [
     "Amplify",
@@ -34,5 +34,6 @@
   "directories": {},
   "dependencies": {
     "jquery": "^1.11.2"
-  }
+  },
+  "readme": "readme.md"
 }
