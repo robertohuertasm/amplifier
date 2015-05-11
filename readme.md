@@ -1,8 +1,10 @@
 # Amplifier
 
-**Amplifier** will let you use the awesome [AmplifyJs](http://amplifyjs.com/) library as a npm module.
+**Amplifier** will let you use the awesome [AmplifyJs](http://amplifyjs.com/) library as a Node.js module.
 
 The current version supports Amplify v.1.1.2
+
+In order to install it just do: **npm install amplifier --save**
 
 # AmplifyJS, A JavaScript Component Library
 

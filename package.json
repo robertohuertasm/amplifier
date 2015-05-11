@@ -1,7 +1,7 @@
 {
-  "name": "Amplifier",
+  "name": "amplifier",
   "version": "1.0.0",
-  "description": "Use the awesome AmplifyJs v1.1.2 library as a npm module.",
+  "description": "Use the awesome AmplifyJs v1.1.2 library as a Node.js module.",
   "main": "index.js",
   "repository": {
     "type": "git",
