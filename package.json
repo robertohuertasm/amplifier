@@ -1,0 +1,38 @@
+{
+  "name": "Amplifier",
+  "version": "1.0.0",
+  "description": "Use the awesome AmplifyJs v1.1.2 library as a npm module.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/codecoding/amplifier.git"
+  },
+  "keywords": [
+    "Amplify",
+    "AmplifyJS",
+    "request",
+    "store",
+    "pub/sub"
+  ],
+  "author": "Roberto Huertas <roberto.huertas@outlook.com> (http://codecoding.com)",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/appendto/amplify/blob/master/MIT-LICENSE.txt"
+    }
+  ],
+  "homepage": "https://github.com/codecoding/amplifier",
+  "bugs": {
+    "url": "https://github.com/codecoding/amplifier/issues"
+  },
+  "maintainers": [
+    {
+      "name": "newton_w",
+      "email": "roberto.huertas@outlook.com"
+    }
+  ],
+  "directories": {},
+  "dependencies": {
+    "jquery": "^1.11.2"
+  }
+}
