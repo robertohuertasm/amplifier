@@ -1,6 +1,6 @@
 {
   "name": "amplifier",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Use the awesome AmplifyJs v1.1.2 library as a Node.js module.",
   "main": "index.js",
   "repository": {
