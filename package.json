@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/codecoding/amplifier.git"
+    "url": "https://github.com/robertohuertasm/amplifier.git"
   },
   "keywords": [
     "Amplify",
@@ -14,16 +14,16 @@
     "store",
     "pub/sub"
   ],
-  "author": "Roberto Huertas <roberto.huertas@outlook.com> (http://codecoding.com)",
+  "author": "Roberto Huertas <roberto.huertas@outlook.com>",
   "licenses": [
     {
       "type": "MIT",
       "url": "https://github.com/appendto/amplify/blob/master/MIT-LICENSE.txt"
     }
   ],
-  "homepage": "https://github.com/codecoding/amplifier",
+  "homepage": "https://github.com/robertohuertasm/amplifier",
   "bugs": {
-    "url": "https://github.com/codecoding/amplifier/issues"
+    "url": "https://github.com/robertohuertasm/amplifier/issues"
   },
   "maintainers": [
     {

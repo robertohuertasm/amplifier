@@ -1,12 +1,14 @@
 # Amplifier
 
+[![NPM](https://nodei.co/npm/amplifier.png)](https://nodei.co/npm/amplifier/)
+
 **Amplifier** will let you use the awesome [AmplifyJs](http://amplifyjs.com/) library as a Node.js module.
 
 The current version supports Amplify v.1.1.2
 
 In order to install it just do: **npm install amplifier --save**
 
-# AmplifyJS, A JavaScript Component Library
+## AmplifyJS, A JavaScript Component Library
 
 AmplifyJS is a set of components for data management and application communication.
 
@@ -21,6 +23,7 @@ Documentation is available online in the [AmplifyJS API site](http://amplifyjs.c
 Testswarm is available at [http://swarm.amplifyjs.com](http://swarm.amplifyjs.com)
 
 ## License
+
 Copyright (c) 2011 appendTo LLC.
 
 Dual licensed under the MIT or GPL licenses.
